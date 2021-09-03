@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+
+# Editor
+.vscode
+.idea
+
+# Generic
+*.log
+*.backup
+
+# Go
+install-slu
+*.exe
+/dist/**
+cobra-docs
